@@ -3,5 +3,5 @@ I am a fourth-year Ph.D. student in Computer Science at New York University advi
 My recent works focus on (1) computation-efficiency of vision transformer; (2) data-efficiency of multi-sensor fusion applications; (3) memory-efficiency of continuous learning; (4) communication-efficiency of edge continuous learning.
 
 Aside from academia, I enjoy building some useful toolkits for AI system community. Now, I have built several tools to accelerate deployment of PyTorch models on GPU and Mobile Phones. If you find they are useful in your research, please consider star them ~~
-- [e2e-detection](https://github.com/efficient-edge/e2e-detection)![Github stars](https://img.shields.io/github/stars/efficient-edge/e2e-detection.svg): a toolkit to benchmark/deploy Pytorch models on __CPU/GPU__ with Nvidia Triton in a fewer lines of code. 
+- [e2e-detection](https://github.com/efficient-edge/e2e-detection): a toolkit to benchmark/deploy Pytorch models on __CPU/GPU__ with Nvidia Triton in a fewer lines of code. 
 <!-- - Cheetah [[Github](https://github.com/efficient-edge/Cheetah)] ![Github stars](https://img.shields.io/github/stars/efficient-edge/Cheetah.svg): benchmark/deploy/optimize PyTorch vision transformer models on __Android devices__ with Alibaba MNN in a fewer lines of code.  -->
