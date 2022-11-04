@@ -16,5 +16,3 @@ redirect_from:
 {% include_relative pub.md %}
 
 {% include_relative intern.md %}
-
-{% include_relative tool.md %}
