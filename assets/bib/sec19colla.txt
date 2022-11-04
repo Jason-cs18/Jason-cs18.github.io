@@ -1,0 +1,6 @@
+@inproceedings{lu19sec, 
+  author={Yan Lu and Yuanchao Shu and Xu Tan and Yunxin Liu and Mengyu Zhou and Qi Chen and Dan Pei}, 
+  booktitle={ACM/IEEE Symposium on Edge Computing (SEC)}, 
+  title={{Collaborative Learning between Cloud and End Devices: An Empirical Study on Location Prediction}}, 
+  year={2019},
+}
