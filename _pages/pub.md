@@ -1,6 +1,6 @@
 # 🧑‍🎨 Preprints
 1. __Yan Lu__, Zhun Zhong, Yuanchao Shu. "Multi-View Domain Adaptive Object Detection in Surveillance Cameras". [[PDF](https://arxiv.org/abs/2102.03442)]
-   - Multi-view self-supervised pre-training help detectors reduce the domain gap from different viewpoints.
+   - Multi-view self-supervised pre-training help detectors reduce the domain gap of different viewpoints.
 
 # 💻 Selected Research Papers
 1. [__SEC 2019__] __Yan Lu__, Yuanchao Shu, Xu Tan, Yunxin Liu, Mengyu Zhou, Qi Chen and Dan Pei. "Collaborative Learning between Cloud and End Devices: An Empirical Study on Location Prediction". In _the Fourth ACM/IEEE Symposium on Edge Computing, 2019_. [[PDF](https://github.com/Jason-cs18/Jason-cs18.github.io/blob/main/papers/sec19colla.pdf)]

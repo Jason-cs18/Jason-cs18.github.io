@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yan Lu (鲁炎)"
-description              : "A Computer Science Ph.D. student at New York University. Focusing on efficiency of machine learning algorithms and systems."
+description              : "A Ph.D. student of Computer Science at New York University. Focusing on efficiency of machine learning algorithms and systems."
 repository               : "https://jason-cs18.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=0gYYrncAAAAJ#"
   email            : "jasonengineer@hotmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yan-Lu-64?ev=hdr_xprf"
-  uri              : "http://jasonly.org/"
+  uri              : "https://jason-cs18.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yan-lu-95401110b"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/15/4830-6.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0384-0219"
   pinterest        :
   soundcloud       :
