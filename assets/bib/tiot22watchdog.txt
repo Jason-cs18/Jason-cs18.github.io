@@ -1,0 +1,11 @@
+@article{dong22watchdog,
+    author = {Dong, Zheng and Lu, Yan and Tong, Guangmo and Shu, Yuanchao and Wang, Shuai and Shi, Weisong},
+    title = {WatchDog: Real-Time Vehicle Tracking on Geo-Distributed Edge Nodes},
+    year = {2022},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    issn = {2691-1914},
+    journal = {ACM Trans. Internet Things},
+    month = {jul},
+}
+
