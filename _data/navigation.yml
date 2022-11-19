@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-preprints"
+    url: "/#-selected-research-papers"
 
   - title: "Internships"
     url: "/#-internships"
