@@ -1,6 +1,6 @@
 I am a fourth-year Ph.D. student in Computer Science at New York University advised by [Sam Bowman](https://cims.nyu.edu/~sbowman/). I'm interested in efficiency of machine learning algorithms and systems (especially on continuous learning and domain adaptation). Prior to NYU, I got M.Tech and B.Tech from Purdue University and Sichuan University, respectively. I am very fortunate to collaborate closely with [Prof. Yuanchao Shu](https://yshu.org) and [Dr. Shiqi Jiang](https://chrisplus.me/) from Zhejiang University and Microsoft Research respectively. 
 
-My recent works focus on (1) computation-efficiency of vision transformer; (2) human-efficiency of edge-AI model management; (3) memory-efficiency of continuous learning; (4) communication-efficiency of edge continuous learning.
+My recent works focus on efficiency of continuous learning systems. Specifically, I am interested in computation/memory/communication-efficiency of continuous learning systems for edge. In addition, I have an interest in computation-efficiency of vision transformers in the real-world deployment. 
 
 __If you are interested in improving AIoT applications at zero/low computation/communication cost, I am open to collaboration. Please feel free to email me at jasonengineer@hotmail.com.__  
 
