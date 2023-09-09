@@ -17,6 +17,4 @@ redirect_from:
 
 {% include_relative intern.md %}
 
-{% include_relative tool.md %}
-
 {% include_relative blog.md %}
