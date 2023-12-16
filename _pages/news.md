@@ -7,47 +7,19 @@
 - *2022.09*: One paper was conditionally accepted to Sensys 2022!
 - *2022.07*: One paper got accepcted to TIOT 2022!
 
----
-title: Scrollable code blocks
-output: html_document
----
-
-```{css, echo=FALSE}
+<style>
 pre {
+  overflow-y: auto;
   max-height: 300px;
-  overflow-y: auto;
 }
+</style>
 
-pre[class] {
-  max-height: 100px;
-}
-```
-
-We have defined some CSS rules to limit the height of
-code blocks. Now we can test if these rules work on code
-blocks and text output:
-
-```{r}
-# pretend that we have a lot of code in this chunk
-if (1 + 1 == 2) {
-  # of course that is true
-  print(mtcars)
-  # we just printed a lengthy data set
-}
-```
-
-Next we add rules for a new class `scroll-100` to limit
-the height to 100px, and add the class to the output of
-a code chunk via the chunk option `class.output`:
-
-```{css, echo=FALSE}
-.scroll-100 {
-  max-height: 100px;
-  overflow-y: auto;
-  background-color: inherit;
-}
-```
-
-```{r, class.output="scroll-100"}
-print(mtcars)
-```
+···bash
+- *2023.01*: MVDAOD was selected as AAAI 2023 oral (10.71%)!
+- *2022.11*: MVDAOD was accepted to AAAI 2023! Thanks for all collaborators!!!
+- *2022.11*: Starting internship at Microsoft Research Shanghai!
+- *2022.11*: e2e-detection is released! 
+- *2022.10*: Turbo was accepted to Sensys 2022!
+- *2022.09*: One paper was conditionally accepted to Sensys 2022!
+- *2022.07*: One paper got accepcted to TIOT 2022!
+···
