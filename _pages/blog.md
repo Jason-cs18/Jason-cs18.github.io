@@ -1,4 +1,4 @@
-# 📚 Blogs
+# Blogs
 1. Research notes
    - [Base Models (language models, image classification, object detection, time-series forecasting, image synthesis)](https://everlasting-message-968.notion.site/Base-Models-730a3e1604a64be98d1c3dbb994fd4b5?pvs=4)
    - [Continuous learning Systems (efficient training, on-device learning, continuous learning)](https://everlasting-message-968.notion.site/Continuous-Learning-248cac7aac654a658f07d32bfffb9cf0?pvs=4)
