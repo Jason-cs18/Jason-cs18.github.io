@@ -1,3 +1,2 @@
 # Bio
-He is currently a Ph.D. candidate in Computer Science at NYU, supervised by [Sam Bowman](https://cims.nyu.edu/~sbowman/). His research focuses on reliable vision systems and efficient ML systems. Before joining NYU, he obtained his M.Tech from Purdue University and B.Tech from Sichuan University. He also collaborates with [Prof. Yuanchao Shu](https://yshu.org) from Zhejiang University and [Dr. Shiqi Jiang](https://chrisplus.me/) from Microsoft Research.
-
+He is currently a Ph.D. candidate in Computer Science at NYU, under the supervision of [Sam Bowman](https://cims.nyu.edu/~sbowman/). His research focuses on reliable vision systems and efficient ML systems. Prior to joining NYU, he earned his M.Tech from Purdue University and B.Tech from Sichuan University. He collaborates closely with [Prof. Yuanchao Shu](https://yshu.org) from Zhejiang University and [Dr. Shiqi Jiang](https://chrisplus.me/) from Microsoft Research.
