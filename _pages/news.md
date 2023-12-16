@@ -8,7 +8,7 @@
 - *2022.07*: One paper got accepcted to TIOT 2022!
 
 <div style="height: 200px; overflow: auto;">
-    ```bash
+    ```markdown
     - *2023.01*: MVDAOD was selected as AAAI 2023 oral (10.71%)!
     - *2022.11*: MVDAOD was accepted to AAAI 2023! Thanks for all collaborators!!!
     - *2022.11*: Starting internship at Microsoft Research Shanghai!
