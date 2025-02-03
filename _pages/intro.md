@@ -1,2 +1,4 @@
 # Bio
 He is a postdoc at NYU systems group working with [Prof. Jinyang Li](https://www.news.cs.nyu.edu/~jinyang/). Before that, he obtained a computer science Ph.D. at New York University where he worked with [Prof. Sam Bowman](https://cims.nyu.edu/~sbowman/). His recent research focuses on scalable continuous learning systems and efficient edge-AI systems. Prior to joining NYU, he earned his M.Tech from Purdue University and B.Tech from Sichuan University. He collaborates closely with [Prof. Yuanchao Shu](https://yshu.org) from Zhejiang University, [Dr. Shiqi Jiang](https://chrisplus.me/) from Microsoft Research, and [Prof. Huanle Zhang](https://www.data-system.tech/) from Shandong University. He is the co-founder of [MengJiTech (孟及科技)](https://www.mengji.tech/index/) which is a startup focusing on AIGC.
+
+**I will join Meta as a Machine Learning Researcher in March 2025.**
