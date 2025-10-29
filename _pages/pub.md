@@ -1,7 +1,7 @@
 
 # Selected Research Papers
 1. [__ICPADS 2025__] Runzheng Wang, Jiahua Wang, __Yan Lu__, Lei Fu, Huanle Zhang. "FastAvatar: Enabling Fast Talking-Face Synthesis on Resource-Constrained Devices via Multimodal Caching and Adaptation".
-  - Accelerating on-device talking-head synthesis model inference via a multimodal cache. 
+   - Accelerating on-device talking-head synthesis model inference via a multimodal cache. 
 2. [__AAAI 2023 (Oral)__] __Yan Lu__, Zhun Zhong, Yuanchao Shu. "Multi-View Domain Adaptive Object Detection in Surveillance Cameras". [[arxiv]](https://arxiv.org/abs/2102.03442) [[PDF](https://Jason-cs18.github.io/assets/paper/MVDAOD_AAAI23_Main.pdf)] [[PDF (including appendix)](https://Jason-cs18.github.io/assets/paper/MVDAOD_AAAI23_Full.pdf)] [[Slides](https://jason-cs18.github.io/)] [[bib](https://Jason-cs18.github.io/assets/bib/aaai23mvdaod.txt)]
    - Leveraging multi-views from overlapping cameras to learn a robust backbone for downstream unsupervised domain adaptation tasks. 
 3. [__SenSys 2022__] __Yan Lu__, Shiqi Jiang, Ting Cao, Yuanchao Shu. "Turbo: Opportunistic Enhancement for Edge Video Analytics". _ACM SenSys 2022_. [[PDF](https://Jason-cs18.github.io/assets/paper/sensys22turbo.pdf)] [[Slides](https://Jason-cs18.github.io/assets/slides/Turbo_SenSys_Presentation.pdf)] [[Code](https://aka.ms/turbo-project)] [[Project page](https://sites.google.com/view/turbo-video/home)] [[bib](https://Jason-cs18.github.io/assets/bib/sensys22turbo.txt)]
